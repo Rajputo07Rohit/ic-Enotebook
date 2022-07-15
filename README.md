@@ -1,3 +1,19 @@
+iNotebook - Your notes on the cloud
+Save Your Notes secured on the cloud
+live site: https://ic-enotebook.herokuapp.com
+Made with MERN STACK
+Features
+Create Account
+Sigin
+Logout
+
+Notes Features
+create note
+read note
+update note
+delete note
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
